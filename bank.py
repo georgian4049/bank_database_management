@@ -1,3 +1,5 @@
+#AUTHOR:AYUSH SHEKHAR
+#github.com/georgian4049
 from __future__ import print_function
 import pymysql
 from prettytable import PrettyTable
@@ -232,22 +234,6 @@ def adminlogin():
 		else:
 			print("\t\t\t\tinvalid choice ")	
 	
-		
-
-
-					
-
-
-
-
-			
-				
- 
-
-
-	
-
-
 
 while(1):
 	print("1.sign up \n2.log in \n3.admin login \n4.exit")
